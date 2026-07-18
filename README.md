@@ -1,6 +1,7 @@
 # TimeCapsule
 
 Java Swing + MySQL Desktop Diary Application
+This is a Java Swing desktop application. To run the project, Java JDK 17, MySQL, and IntelliJ IDEA are required. Configure the database credentials in DBConnection.java before running Main.java.
 
 ## Requirements
 - Java JDK 17
